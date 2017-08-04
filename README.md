@@ -59,6 +59,7 @@ Proc. IEEE (2014), 102(10):1470-1484.
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Insightness.pdf) and [Video](https://youtu.be/6YyOW6DDGKw) by [Christian Brandli](http://www.insightness.com/#team), CEO and co-founder of Insightness.
 - [iniVation](http://inivation.com) invents, produces and sells neuromorphic technologies with a special focus on event-based vision into *business*. 
     - [Slides](http://rpg.ifi.uzh.ch/docs/ICRA17workshop/Jakobsen.pdf) by [S. E. Jakobsen](http://inivation.com/team/), CEO and co-founder of iniVation.
+- Sony's IMX382 [Video](https://youtu.be/SWaG4XMNT3M)
 
 <a name="companies_sftwr"></a>
 # Companies working on Event-based Vision
